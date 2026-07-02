@@ -52,11 +52,11 @@
 
 ### 👤 Rajat Srivastava (22f3003195)
 * **Tasks Completed:**
- * Contributed to brainstorming and drafting the system's problem statement alongside Samta Ranka, Shivendra Patel, and Ritwik Trivedi.
- * Worked with Samta Ranka and Shivendra Patel to research and prepare the initial project report. 
- * Teamed up with Ritwik Trivedi to translate and structure the finalized report into proper Markdown syntax.
- * Participated with the entire team in reviewing and finalizing the layout of the text and presentation slides.
- * Participated in the overall formatting, proofreading, and final review of both the report and presentation before submission. 
+  * Contributed to brainstorming and drafting the system's problem statement alongside Samta Ranka, Shivendra Patel, and Ritwik Trivedi.
+  * Worked with Samta Ranka and Shivendra Patel to research and prepare the initial project report. 
+  * Teamed up with Ritwik Trivedi to translate and structure the finalized report into proper Markdown syntax.
+  * Participated with the entire team in reviewing and finalizing the layout of the text and presentation slides.
+  * Participated in the overall formatting, proofreading, and final review of both the report and presentation before submission. 
 
 
 ### 👤 Bryan David Robinson (22f3002277)
